@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>알뜰폰 셀프 개통 | 밀리의서재 평생 무료</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 40px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #ff6600;
+            color: white;
+            padding: 15px 30px;
+            font-size: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .benefits {
+            background-color: #f2f2f2;
+            padding: 30px;
+        }
+        .faq {
+            padding: 20px;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        📱 5분 만에 개통! 밀리의서재 평생 무료 + 친구 추천 시 10만원 지급!
+    </div>
+
+    <div class="container">
+        <h2>💰 월 최저 XX원! 셀프 개통으로 더 저렴하게!</h2>
+        <p>✔ 기다릴 필요 없이 5분 만에 개통 완료<br>
+           ✔ 밀리의서재 평생 무료 혜택 제공<br>
+           ✔ 친구 추천하면 10만 원 적립!</p>
+        <a href="#" class="cta-button">지금 개통하고 혜택 받기</a>
+    </div>
+
+    <div class="benefits">
+        <h2>🎁 가입하면 이런 혜택이!</h2>
+        <p>✅ <b>셀프 개통</b>으로 기다림 없이 즉시 사용<br>
+           ✅ <b>밀리의서재 평생 무료</b> 혜택 제공<br>
+           ✅ <b>친구 추천 시 10만 원 적립</b></p>
+        <a href="#" class="cta-button">내게 맞는 요금제 찾기</a>
+    </div>
+
+    <div class="container">
+        <h2>📌 개통 방법 (3단계)</h2>
+        <p>🛒 <b>1. 요금제 선택</b> – 원하는 요금제 고르기<br>
+           📲 <b>2. 셀프 개통 진행</b> – 본인 인증 후 즉시 개통<br>
+           🎁 <b>3. 혜택 받기</b> – 밀리의서재 무료 + 친구 추천 보상</p>
+        <a href="#" class="cta-button">5분 만에 개통하기</a>
+    </div>
+
+    <div class="faq">
+        <h2>🤔 자주 묻는 질문</h2>
+        <p><b>Q. 셀프 개통이 어렵지 않나요?</b><br>
+           A. 아닙니다! 온라인에서 본인 인증만 하면 5분 만에 끝나요.</p>
+        <p><b>Q. 밀리의서재 평생 무료는 진짜인가요?</b><br>
+           A. 네! 개통만 하면 평생 무료 혜택을 드립니다.</p>
+    </div>
+
+    <div class="footer">
+        📞 고객센터: 0000-0000 | © 2025 알뜰폰 개통 서비스
+    </div>
+
+</body>
+</html>
